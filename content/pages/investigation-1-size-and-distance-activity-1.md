@@ -5,7 +5,7 @@ draft: false
 title: 'Investigation 1: Size and Distance - Activity 1'
 uid: bb1d0c90-031d-4fd8-b970-edaabac98829
 ---
-**Models in Science / Simple Telescopes**  
+**Models in Science / Simple Telescopes**   
 **Overview:** Students make a model of a 3D arrangement of blocks and then refine it, based on the quality of predictions it makes and their resulting observations about those predictions. Students then learn to project an image with a curved mirror.
 
 **Electronic resources:** pics of hanging blocks which students will model: perspective 1, perspective 2, perspective 3, perspective 4
@@ -20,13 +20,13 @@ uid: bb1d0c90-031d-4fd8-b970-edaabac98829
 - Youth make predictions (actual 2D color sketches) of what the system looks like from another specified perspective. We'd also show some more outlandish models that still explain the first observation (i.e. blue diamond object extends very far back as a tall box, or back of red square is actually purple).
 - Youth physically label the 3D object as "model" and the 2D drawing as "prediction." Youth groups do a peer review on the predictions other groups have drawn from their model, to make sure the predictions are consistent. (This also allows them to see the range of models created.)
 - Then youth get to see the observation of the second perspective (i.e. new data that results from a testing experiment). They check their predictions against this new observation, and some may have to revise their model to reflect the new data. Our "outlandish" models would definitely have to be revised. Peer review is repeated.
-- We repeat this process for the remaining 2 "new observations", until all groups have an accurate model, which should mostly be the same. However, there will be some differences possible (i.e in the 4 observations, we don't see every side of all objects, and we don't see internal structure of the objects...)
-- Wrap up discussion: Groups come up with their working definition of each of the first three terms, and instructor wraps up discussion with final question.  
-    **Observation:** (a description of **what** has happened in a particular situation)  
-    **Model:** explanation, theory (an explanation of **why** something happens or looks a certain way)  
-    **Testable prediction**: a description of what **will** happen, that you could then go and observe  
-    **Law:** a statement of what **always happens** in a situation (does **not** include **why**!)  
-    **Written notes:** observation definitions, model definitions, prediction definitions  
+- We repeat this process for the remaining 2 "new observations", until all groups have an accurate model, which should mostly be the same. However, there will be some differences possible (i.e in the 4 observations, we don't see every side of all objects, and we don't see internal structure of the objects…)
+- Wrap up discussion: Groups come up with their working definition of each of the first three terms, and instructor wraps up discussion with final question.   
+    **Observation:** (a description of **what** has happened in a particular situation)   
+    **Model:** explanation, theory (an explanation of **why** something happens or looks a certain way)   
+    **Testable prediction**: a description of what **will** happen, that you could then go and observe   
+    **Law:** a statement of what **always happens** in a situation (does **not** include **why**!)   
+    **Written notes:** observation definitions, model definitions, prediction definitions   
     **Question:** what's easier, **proving** a model is incorrect or correct? **Can** we prove something correct?
 
 **Teaching tips/tricks:**
@@ -42,7 +42,7 @@ uid: bb1d0c90-031d-4fd8-b970-edaabac98829
 
 \[Video Insert\]
 
-**Simple Telescope Model**  
+**Simple Telescope Model**   
 Electronic resource: Simple telescope model
 
 Physical resources: bulb with pattern drawn on it, curved makeup mirrors, flat mirrors, cardboard with grid of "pixels" drawn on it.
@@ -57,8 +57,9 @@ Physical resources: bulb with pattern drawn on it, curved makeup mirrors, flat m
 - Youth find it easier to trace the path of light directly from a source, but their descriptions may allow instructor to see misconceptions about light that could be dealt with in Investigation 2.
 - Having flat mirrors as well as curved can be confusing if they try to use both together. If so, encourage them to use only one mirror to make an image.
 
-  
 **Assessment ideas:**
 
 - Draw the path that light takes to make the image.
 - Why would astronomers want small pixels instead of large pixels (as on the cardboard "grid").
+
+\[Insert Video\]
